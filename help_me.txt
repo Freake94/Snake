@@ -1,0 +1,4 @@
+WASD / arrows 	- move
+Space 		- Pause / Restart
+R     		- Force Restart
+M		- Visual Mode
